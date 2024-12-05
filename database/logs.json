@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Yangbener Aja",
+    "command": "ai",
+    "query": "cara membingungkan guru",
+    "time": "00:55:41",
+    "number": "6287810666098",
+    "group": "Anything Assistant ✨"
+  },
+  {
+    "name": "Yangbener Aja",
+    "command": "ai",
+    "query": "cara menambah limit",
+    "time": "00:55:55",
+    "number": "6287810666098",
+    "group": "Anything Assistant ✨"
+  },
+  {
+    "name": "Nasir",
+    "command": "sf",
+    "query": "plugins/Downloader/tiktokdl.js",
+    "time": "01:02:57",
+    "number": "6282353035070",
+    "group": "Private chat"
+  },
+  {
+    "name": "Nasir",
+    "command": "restart",
+    "query": "",
+    "time": "01:03:04",
+    "number": "6282353035070",
+    "group": "Private chat"
+  },
+  {
+    "name": "Valdi",
+    "command": "siapakahaku",
+    "query": "",
+    "time": "01:08:23",
+    "number": "6281804929200",
+    "group": "Private chat"
+  },
+  {
+    "name": "Valdi",
+    "command": "siapakahaku",
+    "query": "",
+    "time": "01:09:29",
+    "number": "6281804929200",
+    "group": "Private chat"
+  }
+]

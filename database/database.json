@@ -1,0 +1,63 @@
+{
+  "set": {
+    "6283141071828@s.whatsapp.net": {
+      "lang": "id",
+      "limit": 0,
+      "uang": 0,
+      "status": 0,
+      "anticall": true,
+      "autobio": false,
+      "autoread": true,
+      "autotyping": true,
+      "readsw": false,
+      "multiprefix": false,
+      "template": "textMessage"
+    },
+    "62895320795795@s.whatsapp.net": {
+      "lang": "id",
+      "limit": 0,
+      "uang": 0,
+      "status": 0,
+      "anticall": true,
+      "autobio": false,
+      "autoread": true,
+      "autotyping": true,
+      "readsw": false,
+      "multiprefix": false,
+      "template": "textMessage"
+    }
+  },
+  "users": {},
+  "game": {
+    "suit": [],
+    "menfes": [],
+    "tekateki": [],
+    "tictactoe": [],
+    "tebaklirik": [],
+    "kuismath": [],
+    "tebaklagu": [],
+    "tebakkata": [],
+    "family100": [],
+    "susunkata": [],
+    "tebakbom": [],
+    "tebakkimia": [],
+    "caklontong": [],
+    "tebaknegara": [],
+    "tebakgambar": [],
+    "tebakbendera": []
+  },
+  "groups": {
+    "120363197640561640@g.us": {
+      "nsfw": false,
+      "mute": false,
+      "setinfo": true,
+      "antilink": false,
+      "antitoxic": false,
+      "welcome": true,
+      "antivirtex": false,
+      "antidelete": false,
+      "waktusholat": false
+    }
+  },
+  "database": {}
+}
